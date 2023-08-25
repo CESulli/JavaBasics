@@ -1,6 +1,6 @@
 package Class4;
 
-public class BloodDonation {
+public class Ex2BloodDonation {
 
     public static void main(String[] args) {
 

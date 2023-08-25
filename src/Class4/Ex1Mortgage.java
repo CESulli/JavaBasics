@@ -1,6 +1,6 @@
 package Class4;
 
-public class Mortgage {
+public class Ex1Mortgage {
 
     public static void main(String[] args) {
 
